@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Pathania! 👋
 
-<!--
-**nik7321/nik7321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full-stack developer (MERN). 
+Open to full-stack development roles.
 
-Here are some ideas to get you started:
+## 💼 Experience
+- **Software Engineer Intern at Nokia Solutions and Networks**  
+   - Worked on the Rule Engine & Customization project using Java, Kubernetes, Docker, Linux, and profiling techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Other Tools:** Docker, Git, Linux
+
+## 📫 Contact Me
+- LinkedIn: [Nikhil Pathania](https://www.linkedin.com/in/nikhil-pathania3/)
+
