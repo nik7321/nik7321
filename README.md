@@ -6,7 +6,7 @@ Open to full-stack development roles.
 
 ## 💼 Experience
 - **Software Engineer Intern at Nokia Solutions and Networks**  
-   - Worked on the Rule Engine & Customization project using Java, Kubernetes, Docker, Linux, and profiling techniques.
+   - Worked on Rule Engine & Customization project using Java, Kubernetes, Docker, Linux, and profiling techniques.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
