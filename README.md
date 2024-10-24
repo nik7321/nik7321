@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Pathania! 👋
+## Hi there, I'm Nikhil Pathania! 👋
 
 ## 🚀 About Me
 Full-stack developer (MERN). 
