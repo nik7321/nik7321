@@ -11,7 +11,7 @@ Open to full-stack development roles.
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, MongoDB
-- **Other Tools:** Docker, Git, Linux
+- **Other Tools:** Docker, Git, Linux, Selenium
 
 ## 📫 Contact Me
 - LinkedIn: [Nikhil Pathania](https://www.linkedin.com/in/nikhil-pathania3/)
